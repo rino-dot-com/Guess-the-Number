@@ -4,4 +4,4 @@ This is a silly game I made one day when I was bored. You just have to guess a r
 
 Open the HTML file in a web browser to play the game.
 
-Type your guess and click submit. The game also keeps track of your win-streak; exciting!
+Type your guess and click submit. It'll tell you if your guess is too high or too low. The game also keeps track of your win-streak; exciting!
